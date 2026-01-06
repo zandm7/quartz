@@ -1,6 +1,6 @@
 ---
 tags:
-  - Index
+  - Indices
 ---
 [[WCMYP (AI notes)]]
 [[Crim Law OCR test]]

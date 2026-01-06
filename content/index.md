@@ -2,7 +2,7 @@
 title: Welcome
 tags:
   - Home
-  - Index
+  - Indices
 ---
 I dunno (under construction)
 

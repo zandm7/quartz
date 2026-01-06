@@ -2,7 +2,7 @@
 title: Law School
 tags:
   - Law
-  - Index
+  - Indices
 ---
 Law school stuff goes here; under construction...
 - [ ] _Getting to Maybe_
