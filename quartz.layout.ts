@@ -65,5 +65,9 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer(),
     Component.RecentNotes(),
   ],
-  right: [],
+  right: [
+    Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+  ],
 }
