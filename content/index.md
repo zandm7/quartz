@@ -7,6 +7,7 @@ tags:
 I dunno (under construction)
 
 [[Testing stuff]]
+[[Law School/index|Law School]]
 
 Links:
 - Store: https://remshi-designs.com
