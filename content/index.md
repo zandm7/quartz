@@ -6,7 +6,7 @@ tags:
 ---
 I dunno (under construction)
 
-[[Testing stuff]]
+[[Testing/index|Testing]]
 [[Law School/index|Law School]]
 
 Links:
