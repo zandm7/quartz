@@ -1,3 +1,4 @@
+[[Transcription]]
 # Why Coffee Causes a Compelling Urge to Defecate
 
 **Main Takeaway:** Coffee rapidly triggers a compelling urge to defecate by stimulating _muscarinic receptors_ within the _enteric nervous system_, leading to gut contractions. This effect is independent of _caffeine_ and occurs too quickly to be solely a digestive process in the stomach or microbiome-mediated.

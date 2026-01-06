@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"b36a237dc976a747","x":-235,"y":-370,"width":400,"height":400,"type":"file","file":"Testing/Why Coffee Makes You Poop.md"},
-		{"id":"c8cd9ab99dd9ed45","x":-605,"y":-237,"width":250,"height":60,"type":"text","text":"ahhh\n"}
-	],
-	"edges":[
-		{"id":"d87e564075e8455d","fromNode":"c8cd9ab99dd9ed45","fromSide":"right","toNode":"b36a237dc976a747","toSide":"left"}
-	]
-}
