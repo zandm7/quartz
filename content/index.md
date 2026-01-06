@@ -1,7 +1,6 @@
 ---
-title: Remshi's Quartz
+title: Welcome
 ---
-
-I dunno
+I dunno (under construction)
 
 [[Testing stuff]]
