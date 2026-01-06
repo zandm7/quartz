@@ -1,3 +1,7 @@
+---
+tags:
+  - Index
+---
 [[WCMYP (AI notes)]]
 [[Crim Law OCR test]]
 [[test audio]]

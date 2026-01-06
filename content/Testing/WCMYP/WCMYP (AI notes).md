@@ -1,3 +1,7 @@
+---
+tags:
+  - AI
+---
 [[Transcription]]
 # Why Coffee Causes a Compelling Urge to Defecate
 

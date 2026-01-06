@@ -1,5 +1,8 @@
 ---
 title: Welcome
+tags:
+  - Home
+  - Index
 ---
 I dunno (under construction)
 
