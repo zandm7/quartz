@@ -1,0 +1,1 @@
+Aluminum is cool and lightweight but not very durable, and slippery.

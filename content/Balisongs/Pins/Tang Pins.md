@@ -1,0 +1,1 @@
+Tang pins go in the blade.
