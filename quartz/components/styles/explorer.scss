@@ -125,6 +125,11 @@ button.desktop-explorer {
       opacity: 0.75;
       pointer-events: all;
 
+      &:hover {
+        opacity: 1;
+        color: var(--tertiary);
+      }
+
       &.active {
         opacity: 1;
         color: var(--tertiary);
@@ -167,10 +172,16 @@ button.desktop-explorer {
     font-weight: $semiBoldWeight;
     line-height: 1.5rem;
     display: inline-block;
+
+    &.active {
+        opacity: 1;
+        color: var(--tertiary);
+    }
   }
 
   & div > a:hover {
     color: var(--tertiary);
+    opacity: 1;
   }
 
   & div > button {
