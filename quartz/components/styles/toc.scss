@@ -56,6 +56,10 @@ ul.toc-content.overflow {
     &.in-view {
       opacity: 0.75;
     }
+    &:hover {
+      opacity: 1;
+      color: var(--tertiary);
+    }
   }
 
   @for $i from 0 through 6 {
