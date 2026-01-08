@@ -8,6 +8,7 @@ I dunno (under construction)
 
 [[Testing/index|Testing]]
 [[Law School/index|Law School]]
+[[Balisongs/index|Balisongs]]
 
 Links:
 - Store: https://remshi-designs.com

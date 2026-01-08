@@ -3,7 +3,7 @@ tags:
   - Indices
 title: Testing
 ---
-[[WCMYP (AI notes)]]
+[[Testing/WCMYP/index|WCMYP]]
 [[Crim Law OCR test]]
 [[test audio]]
 [[Recent]]

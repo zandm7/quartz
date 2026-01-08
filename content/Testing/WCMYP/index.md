@@ -4,3 +4,6 @@ tags:
   - Indices
 ---
 https://www.youtube.com/watch?v=LZnAQ-PWQdg
+
+[[Transcription]]
+[[WCMYP (AI notes)]]
