@@ -1,0 +1,29 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.contains("Balisongs")
+        - "!type.isEmpty()"
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - construction
+      - maker
+      - material (blade)
+      - material (handle)
+      - pin system
+      - type
+      - file.embeds
+    columnSize:
+      note.title: 117
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder.contains("Balisongs")
+    cardSize: 200
+    image: file.file

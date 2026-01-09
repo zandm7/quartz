@@ -1,5 +1,7 @@
 ---
 title: Remshi Designs
+type: "[[Balisongs/Makers/index|Maker]]"
+image: "[[remshi.png]]"
 ---
 ![[remshi.png]]
 
