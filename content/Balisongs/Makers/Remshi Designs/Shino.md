@@ -6,6 +6,7 @@ material (handle): "[[Titanium]]"
 material (blade): "[[Steel]]"
 pin system: "[[Zen Pins]]"
 image: "[[IMG_20241028_083939_791.jpg]]"
+weight: 3.8
 ---
 ![[IMG_20241028_083939_791.jpg]]
 

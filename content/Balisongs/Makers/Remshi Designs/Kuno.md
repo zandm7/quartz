@@ -6,6 +6,7 @@ material (handle): "[[Titanium]]"
 material (blade): "[[Titanium]]"
 pin system: "[[Pinsless]]"
 image: "[[DSC_2357.jpg]]"
+weight: 3.2
 ---
 ![[DSC_2357.jpg]]
 

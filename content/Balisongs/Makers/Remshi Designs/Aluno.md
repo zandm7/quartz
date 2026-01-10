@@ -6,6 +6,7 @@ material (handle): "[[Aluminum]]"
 material (blade): "[[Titanium]]"
 pin system: "[[Pinsless]]"
 image: "[[502889558_1376053987002858_8047445598417268764_n.jpg]]"
+weight: 2.9
 ---
 ![[502889558_1376053987002858_8047445598417268764_n.jpg]]
 
